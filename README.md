@@ -8,4 +8,5 @@
 2. Go to project settings -> service accounts
 3. Select python and click on `Generate new private key`
 4. Set the admin_creds vairable to the key that was generated (dont share this key with anyone).
+5. Create a firestore database on your firebase project, that is where the logs will be stored.
 - **DO NOT USE THIS FOR MALICIOUS PURPOSES**
